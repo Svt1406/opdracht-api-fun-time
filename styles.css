@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+nav {
+  position: absolute;
+  top: 10%;
+  left: 45%;
+}
+
+.btn {
+  font-size: 20px;
+  padding: 5px 20px;
+  width: 200px;
+  height: 100px;
+  background-color: maroon;
+  color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#api-content {
+  margin-top: 35vh;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+}/*# sourceMappingURL=styles.css.map */
